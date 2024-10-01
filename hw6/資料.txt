@@ -1,0 +1,2 @@
+1. kernel 大神
+https://stats.stackexchange.com/questions/274956/prove-that-this-kernel-is-a-valid-kernel

@@ -1,0 +1,1 @@
+不知為何用 windows 資料夾內的 train 會遇到超過 iter_max 的問題，後來改成用 pip 裝 liblinear 跑 python 的程式碼就沒問題了
